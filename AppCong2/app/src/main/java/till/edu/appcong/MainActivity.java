@@ -35,13 +35,13 @@ public class MainActivity extends AppCompatActivity {
         String strB = editTextB.getText().toString();
 
         //Tính tổng 2 số a và b
-        int a = Integer.parseInt(strA);
-        int b = Integer.parseInt(strB);
+        int a = Integer.parseInt(strA);//2
+        int b = Integer.parseInt(strB);//4
         // tính toán theo yêu cầu
-        int tong = a + b; //Tính tổng 2 số a và b// chuyển sang chuỗi: "6"
-        String string = String.valueOf(tong); //Chuyển sang dạng chuoi
+        int tong = a + b; //Tính tổng 2 số a và b = 6
+        String strTong = String.valueOf(tong); //Chuyển sang dạng chuoi: :"6"
         // Hiển thị kết quả
-        editTextKetQua.setText(String.valueOf(tong));
+        editTextKetQua.setText(String.valueOf(strTong));
 
     }
 }
