@@ -1,0 +1,7 @@
+till.edu.baith2_1.app-pngs-0 D:\AndroidProjects\65131611-AndroidProgramming\BaiTH2_12\app\build\generated\res\pngs\debug
+till.edu.baith2_1.app-updated_navigation_xml-1 D:\AndroidProjects\65131611-AndroidProgramming\BaiTH2_12\app\build\generated\updated_navigation_xml\debug
+till.edu.baith2_1.app-packageDebugResources-2 D:\AndroidProjects\65131611-AndroidProgramming\BaiTH2_12\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+till.edu.baith2_1.app-packageDebugResources-3 D:\AndroidProjects\65131611-AndroidProgramming\BaiTH2_12\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+till.edu.baith2_1.app-debug-4 D:\AndroidProjects\65131611-AndroidProgramming\BaiTH2_12\app\build\intermediates\merged_res\debug\mergeDebugResources
+till.edu.baith2_1.app-debug-5 D:\AndroidProjects\65131611-AndroidProgramming\BaiTH2_12\app\src\debug\res
+till.edu.baith2_1.app-main-6 D:\AndroidProjects\65131611-AndroidProgramming\BaiTH2_12\app\src\main\res

@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "till.edu.baith2_1.app-mergeDebugResources-36:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\AnPhat\\.gradle\\caches\\9.3.1\\transforms\\91338609c4d6fd919fc173cb8ed27408\\workspace\\transformed\\appcompat-1.2.0\\res\\values-watch-v20\\values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}
