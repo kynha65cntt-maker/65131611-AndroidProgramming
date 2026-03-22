@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
     EditText editTextSo1;
     EditText editTextSo2;
     EditText editTextKetQua;
-
+    Button nutCong, nutTru, nutNhan, nutChia;
     void TimDieuKhien() {
         editTextSo1 = (EditText) findViewById(R.id.edtSo1);
         editTextSo2 = (EditText) findViewById(R.id.edtSo2);
@@ -22,9 +22,6 @@ public class MainActivity extends AppCompatActivity {
         nutNhan = (Button) findViewById(R.id.btnNhan);
         nutChia = (Button) findViewById(R.id.btnChia);
     }
-
-    Button nutCong, nutTru, nutNhan, nutChia;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
