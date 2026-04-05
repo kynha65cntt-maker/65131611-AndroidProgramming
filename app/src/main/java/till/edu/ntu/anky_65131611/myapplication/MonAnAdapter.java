@@ -9,11 +9,10 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 
-import java.text.BreakIterator;
 import java.util.ArrayList;
 
 public class MonAnAdapter extends BaseAdapter {
-    public MonAnAdapter(Context context, LayoutInflater layoutInflater, ArrayList<MonAn> dsMonAn) {
+    public MonAnAdapter(Context context, ArrayList<MonAn> dsMonAn) {
         this.context = context;
         this.layoutInflater = LayoutInflater.from(context);
         this.dsMonAn = dsMonAn;

@@ -1,41 +1,47 @@
-<? xml version="1.0" encoding="utf-8"?>
-<LinearLayout
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:tools="http://schemas.android.com/tools"
     android:layout_height="52dp"
-    android:padding="1dp"
     android:layout_width="match_parent"
+    android:padding="1dp"
     android:orientation="horizontal"
+    android:gravity="center_vertical"
     android:background="#E6D7EC"
     xmlns:android="http://schemas.android.com/apk/res/android">
     <ImageView
-        android:id="@+id/imAnhDaiDien"
-        android:layout_width="50dp"
-        android:backgroundColor="@color/teal_200"
-        android:layout_height="50dp"/>
+        android:id="@+id/AndDaiDien"
+        android:layout_width="wrap_content"
+        android:background="@drawable/ic_launcher_background"
+        android:layout_height="50dp"
+        android:contentDescription="TODO" />
     <LinearLayout
-        android: orientation="vertical"
-        android: layout_width="match_parent"
-        android: layout_height="50dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
         android:paddingLeft="2dp">
 
         <TextView
-            android:id="@+id/tvTenMonAnh"
-            android:layout_width="match_parent"
-            android:layout_height="20dp"
-            android:textStyle="bold"
-            android:textSize="13dp"
-            android:text="Món thứ nhất"/>
-
-        <TextView
-            android:id="@+id/tvDonGia"
-            android:layout_width="match_parent"
-            android:text="200000đ"
-            android:textSize="10dp" />
-        <TextView
-            android:id="@+id/tvMoTa"
+            android:id="@+id/textView_TenMon"
             android:layout_width="match_parent"
             android:layout_height="20dp"
             android:text="Món thứ nhất"
-            android:textSize="10dp"/>
+            android:textSize="13dp"
+            android:textStyle="bold"
+            tools:ignore="TextSizeCheck" />
 
+        <TextView
+            android:id="@+id/textView_DonGia"
+            android:layout_width="match_parent"
+            android:layout_height="15dp"
+            android:text="200000d"
+            android:textSize="10dp"
+            tools:ignore="TextSizeCheck" />
+
+        <TextView
+            android:id="@+id/textView_MoTa"
+            android:layout_width="match_parent"
+            android:layout_height="15dp"
+            android:text="Nội dung mô tả ở đây: "
+            android:textSize="10dp"
+            tools:ignore="TextSizeCheck" />
     </LinearLayout>
-</LinearLayout>
+    </LinearLayout>
