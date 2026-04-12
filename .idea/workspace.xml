@@ -4,49 +4,27 @@
     <shared>
       <config />
     </shared>
-    <layouts>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-        <config>
-          <theme>@style/Theme.Bai8__TuyChinhLV</theme>
-        </config>
-      </layout>
-      <layout url="file://$PROJECT_DIR$/app/src/main/res/layout/item_monan.xml">
-        <config>
-          <theme>@style/Theme.Bai8__TuyChinhLV</theme>
-        </config>
-      </layout>
-    </layouts>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efa33ea8-93c4-46ae-b110-2f525a948ca5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/anky/ntu/edu/AndroidProgram/baith8_tuychinhlv/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/anky/ntu/edu/AndroidProgram/baith8_tuychinhlv/MainActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/anky/ntu/edu/AndroidProgram/baith8_tuychinhlv/MonAn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/anky/ntu/edu/AndroidProgram/baith8_tuychinhlv/MonAnAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/cg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/sbt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/sdb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/st.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/ids.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/test/java/anky/ntu/edu/AndroidProgram/baith8_tuychinhlv/ExampleUnitTest.java" afterDir="false" />
+    <list default="true" id="4065264e-429a-4704-9f88-6a8d235cd3fd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/anky/ntu/edu/AndroidProgram/bai9_recyclerview/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/anky/ntu/edu/AndroidProgram/bai9_recyclerview/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/test/java/anky/ntu/edu/AndroidProgram/bai9_recyclerview/ExampleUnitTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/AndroidProjectSystem.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/deploymentTargetSelector.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deviceManager.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/markdown.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/65131611-LapTrinhAndroid" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/anky/ntu/edu/AndroidProgram/Vn/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/anky/ntu/edu/AndroidProgram/Vn/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/till/edu/ntu/anky_65131611/myapplication/MonAnAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/till/edu/ntu/anky_65131611/myapplication/MonAnAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_monan.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_monan.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,14 +58,6 @@
       </state>
     </system>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-        <option value="valueResourceFile" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -104,14 +74,11 @@
   }
 }]]></component>
   <component name="GradleScriptDefinitionsStorage" workingDir="$PROJECT_DIR$" gradleHome="C:\Users\AnPhat\.gradle\wrapper\dists\gradle-9.3.1-bin\23ovyewtku6u96viwx3xl3oks\gradle-9.3.1" javaHome="C:\Program Files\Android\Android Studio\jbr" gradleVersion="9.3.1" />
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
   "associatedIndex": 0
 }]]></component>
-  <component name="ProjectId" id="3BvxiaXiKPI8wXoUKoU5V5GxID2" />
+  <component name="ProjectId" id="3ByR2b5bpaxXkvR6HAA9b5TeryX" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -121,7 +88,6 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Android App.app.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
@@ -130,18 +96,9 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/AndroidProjects/65131611-AndroidProgramming/app/src/main/res/drawable"
+    "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="anky.ntu.edu.AndroidProgram.baith8_tuychinhlv" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\AndroidProjects\65131611-AndroidProgramming\app\src\main\res\drawable" />
-    </key>
-  </component>
   <component name="RunManager">
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="Bai8__TuyChinhLV.app" />
@@ -216,28 +173,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="efa33ea8-93c4-46ae-b110-2f525a948ca5" name="Changes" comment="" />
-      <created>1775383473626</created>
+      <changelist id="4065264e-429a-4704-9f88-6a8d235cd3fd" name="Changes" comment="" />
+      <created>1775459116778</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1775383473626</updated>
+      <updated>1775459116778</updated>
     </task>
     <servers />
-  </component>
-  <component name="play_dynamic_filters_status">
-    <option name="appIdToCheckInfo">
-      <map>
-        <entry key="till.edu.ntu.anky_65131611.myapplication">
-          <value>
-            <CheckInfo lastCheckTimestamp="1775385224562" />
-          </value>
-        </entry>
-        <entry key="till.edu.ntu.anky_65131611.myapplication.test">
-          <value>
-            <CheckInfo lastCheckTimestamp="1775385224563" />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>

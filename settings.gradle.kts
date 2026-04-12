@@ -26,3 +26,5 @@ rootProject.name = "Bai8__TuyChinhLV"
 include(":app")
 include(":app")
 include(":app")
+include(":app")
+ 
