@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "761939320886",
+    "firebase_url": "https://android-projects-352a4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "android-projects-352a4",
+    "storage_bucket": "android-projects-352a4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761939320886:android:5a14dae5d9aaa9251db897",
+        "android_client_info": {
+          "package_name": "anky.ntu.edu.quanlychitieu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm5hZg19u0w6VByJlCZuAxZBBJoM0-Mic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761939320886:android:dc8c9eeec16545891db897",
+        "android_client_info": {
+          "package_name": "anky.ntu.edu.vieccanlam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDm5hZg19u0w6VByJlCZuAxZBBJoM0-Mic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
